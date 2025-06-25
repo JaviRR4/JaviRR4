@@ -20,7 +20,6 @@
 
 ### ⚙️ Scripting & Automation
 - Bash scripting and basic **Python** for automation tasks
-- CLI-focused workflow
 
 ### 💻 Other Tools & Technologies
 - HTML, CSS, JavaScript, PHP, SQL
@@ -30,14 +29,15 @@
 
 ## 🚀 About Me
 
-I'm a certified IT professional with a background in systems administration and telecommunications. After gaining experience in networks and support roles, I discovered a true passion for cybersecurity — especially offensive techniques like ethical hacking and pentesting.
+I'm an IT technician with a background in systems administration and telecommunications, now focused on building a career in cybersecurity, especially in the offensive security field.
 
-Curious by nature and constantly learning, I thrive on breaking things to understand how they work and making them stronger and safer. I'm currently focused on improving my skills in vulnerability assessment, red teaming basics, and security automation.
+Curious and self-motivated, I'm constantly learning and improving my skills through courses, labs, and CTF challenges. I enjoy exploring how systems work, finding weaknesses, and learning how to protect them. Right now, I'm developing my knowledge in vulnerability assessment, red teaming basics, and security tools.
 
+I'm looking for opportunities where I can grow, learn from experienced professionals, and contribute to real-world security projects.
 ---
 
 ## 📫 How to reach me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/javier-rueda-arjona-77604a2b5/))
 - 💻 GitHub Repositories: Scripts, labs & CTF projects in progress
 
