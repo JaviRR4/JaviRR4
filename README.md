@@ -14,8 +14,7 @@
 - Familiar with **OWASP Top 10**, basic recon techniques and ethical hacking methodology
 
 ### 🖧 Networks & Systems
-- Strong foundation in TCP/IP, DNS, DHCP, NAT, VPN
-- Experience managing **Linux** (Ubuntu, Kali) and **Windows** environments
+- Experience managing **Linux** (Ubuntu, Kali, Parrot) and **Windows** environments
 - Log analysis and basic monitoring
 
 ### ⚙️ Scripting & Automation
