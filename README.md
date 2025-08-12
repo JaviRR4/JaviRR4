@@ -3,10 +3,17 @@
 Cybersecurity enthusiast and IT technician specializing in **offensive security**.  
 Passionate about ethical hacking, CTFs, and hands-on labs like **HackTheBox**.  
 Self-taught, curious, and constantly improving my skills to tackle real-world security challenges.  
-Actively seeking a company where I can grow and contribute to impactful security projects.  
+Seeking a company that values my contribution and where we can grow together.  
 
 ---
 
+**Talking about Personal Stuffs:**
+-  I am currently seeking a role in cybersecurity.
+- ♟️ My hobbies include playing chess and running...
+- In my free time I enjoy watching football or a good series
+- 🚀 Upcoming Certifications : OSCP-CPTS
+- 💬 Friendly, collaborative, and detail-oriented — always eager to learn and share knowledge.
+  
 ## 🎓 Current Certifications
 
 <a>Introduction to the Threat Landscape 2.0</a>
