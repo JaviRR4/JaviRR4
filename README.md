@@ -1,10 +1,21 @@
 ## 👋 Hi, I'm Javi
 
-🎯 I'm a Systems and Network Administrator currently transitioning into the world of **ethical hacking** and **offensive cybersecurity**.  
-🧠 I'm passionate about identifying vulnerabilities, learning independently, and constantly improving in the IT field.  
-🔍 Actively training through labs, CTFs, and hands-on ethical hacking tools.
-
+· I am a Cybersecurity Enthusiast
+· I really like HackTheBox and the labs they make
+· I also like cars, chess and running.  
+· Actively training through labs, CTFs, and hands-on ethical hacking tools.
+· I consider myself a curious, self-taught individual with a passion for cybersecurity.
+· I am actively seeking a company to grow with and contribute to.
 ---
+## Current Certifications
+
+<a>Introduction to the Threat Landscape 2.0</a>
+<a href="https://www.credly.com/badges/e3b61bd3-5cc6-4ef9-a192-27eac9f07afd/public_url">
+  <img align="left" alt="Fortinet" width="22px" src="https://github.co/main/icons/fortinet-color.svg" />
+</a>
+
+
+
 
 ## 🛠️ Technical Skills
 
