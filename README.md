@@ -9,10 +9,19 @@ Actively seeking a company where I can grow and contribute to impactful security
 
 ## 🎓 Current Certifications
 
-[![Intro to Threat Landscape 2.0](https://github.com/JaviRR4/JaviRR4/blob/main/Icons/Intro-ciber.png)](https://www.credly.com/badges/e3b61bd3-5cc6-4ef9-a192-27eac9f07afd/public_url)
-[![IT Essentials](https://github.com/JaviRR4/JaviRR4/blob/main/Icons/ITE.png)](https://www.credly.com/badges/988fc8aa-f86a-4c10-932b-4e2b97b80a95/public_url)
-[![AWS](https://github.com/JaviRR4/JaviRR4/blob/main/Icons/aws.png)](https://www.credly.com/badges/cfcff859-c460-4be5-853e-2e2c6d2e4ffb/public_url)
-[![Fortinet](https://github.com/JaviRR4/JaviRR4/blob/main/Icons/fortinet-color.svg)](https://www.credly.com/badges/cfcff859-c460-4be5-853e-2e2c6d2e4ffb/public_url)
+<a>Introduction to the Threat Landscape 2.0</a>
+<a href="https://www.credly.com/badges/e3b61bd3-5cc6-4ef9-a192-27eac9f07afd/public_url">
+  <img align="left" alt="Intro Ciber" width="22px" src="https://github.com/JaviRR4/JaviRR4/blob/main/Icons/Intro-ciber.png" />
+</a>
+<a href="https://www.credly.com/badges/988fc8aa-f86a-4c10-932b-4e2b97b80a95/public_url">
+  <img align="left" alt="IT-Essentials" width="22px" src="https://github.com/JaviRR4/JaviRR4/blob/main/Icons/ITE.png" />
+</a>
+<a href="https://www.credly.com/badges/cfcff859-c460-4be5-853e-2e2c6d2e4ffb/public_url">
+  <img align="left" alt="aws" width="22px" src="https://github.com/JaviRR4/JaviRR4/blob/main/Icons/aws.png" />
+</a>
+<a href="https://www.credly.com/badges/cfcff859-c460-4be5-853e-2e2c6d2e4ffb/public_url">
+  <img align="left" alt="aws" width="22px" src="https://github.com/JaviRR4/JaviRR4/blob/main/Icons/fortinet-color.svg" />
+</a>
 
 ---
 
